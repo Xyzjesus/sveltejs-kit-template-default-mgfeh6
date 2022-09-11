@@ -11,8 +11,8 @@
 		"format": "prettier --write ."
 	},
 	"engines": {
-    "node":">=16.14",
-    "npm":"7.18.1"
+    "node":"14.0",
+    "npm":"6.8"
   },
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "next",
