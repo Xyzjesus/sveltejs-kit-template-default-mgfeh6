@@ -10,6 +10,10 @@
 		"lint": "prettier --check .",
 		"format": "prettier --write ."
 	},
+	"engines": {
+    "node":">=16.14",
+    "npm":"7.18.1"
+  },
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
